@@ -14,8 +14,6 @@ import (
 // ...
 // }
 
-// TODO: nested struct
-
 //if two struct have same field and the field type is same, auto assign the field value in output
 func AssignSameFieldStruct(input interface{}, output interface{}) error {
 
